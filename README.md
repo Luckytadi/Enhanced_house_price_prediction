@@ -1,5 +1,4 @@
 # Enhanced_house_price_prediction
-This project focuses on predicting housing prices using a dataset with various property features. It includes data preprocessing (scaling, imputation), model training (Linear Regression, Decision Tree, K-Nearest Neighbors), and ensemble methods (BaggingRegressor) with hyperparameter tuning to optimize predictions and evaluate model performance.
 ## Overview
 <b>Data Preparation</b>: Handles missing values, scales features, and splits the dataset into training and testing sets.
 
@@ -11,8 +10,6 @@ This project focuses on predicting housing prices using a dataset with various p
 - `housing.csv`: The source dataset used for the analysis.
 
 ## Preview
-<p>
-The code demonstrates a comprehensive approach to housing price prediction, starting from data preprocessing (missing value imputation and feature scaling) to model training and evaluation. It includes various regression models (Linear Regression, Decision Tree, K-Nearest Neighbors) and leverages ensemble learning with BaggingRegressor. Hyperparameter optimization is performed using GridSearchCV to fine-tune the ensemble model for better accuracy. The project aims to enhance predictive performance and assess different models' effectiveness in forecasting housing prices.</p>
 <pre>
 fitting 3 folds for each of 192 candidates, totalling 576 fits
 Train R^2 Score : 0.975
