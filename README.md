@@ -30,5 +30,5 @@ Test Coefficient of R^2 : 0.829
 1. Clone this repository.
 2. Open `enhanced_house_price_prediction.py' with Jupyter Notebook.
 
-## Data Sources
+## Data Source
 - The Kaggle provided the housing' data.
